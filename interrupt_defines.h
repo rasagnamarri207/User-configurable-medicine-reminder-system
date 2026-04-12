@@ -1,0 +1,5 @@
+//Interrupt_defines
+#define EINT0_INPUT_PIN 0X0000000C
+#define EINT0_VIC_CHNO 14 
+#define EINT1_INPUT_PIN 0X000000C0
+#define EINT1_VIC_CHNO 15
